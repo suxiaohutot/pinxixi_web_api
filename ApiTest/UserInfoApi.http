@@ -1,0 +1,23 @@
+###
+GET {{host}}/api/UserInfo/1
+
+###
+POST {{host}}/api/UserInfo/PostAddUserInfo
+Content-Type: application/x-www-form-urlencoded
+
+username=ii
+&password=ii
+
+###
+PUT {{host}}/api/UserInfo/PutUpdataUserInfo
+Content-Type: application/x-www-form-urlencoded
+
+id=3
+&username=新cc
+&password=新cc
+
+###
+DELETE {{host}}/api/UserInfo/DeletedataUserInfo
+Content-Type: application/x-www-form-urlencoded
+
+id=10

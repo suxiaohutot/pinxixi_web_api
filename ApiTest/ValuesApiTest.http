@@ -1,0 +1,17 @@
+###
+GET {{host}}/api/Values
+
+###
+POST {{host}}/api/values
+Content-Type: application/json
+
+"abc"
+
+###
+PUT {{host}}/api/values/5
+Content-Type: application/json
+
+"abc"
+###
+DELETE {{host}}/api/values/5
+

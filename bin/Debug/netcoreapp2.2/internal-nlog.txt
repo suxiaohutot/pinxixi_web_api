@@ -1,0 +1,457 @@
+2019-09-24 10:19:19.6922 Info Message Template Auto Format enabled
+2019-09-24 10:19:19.7219 Info Loading assembly: NLog.Extensions.Logging
+2019-09-24 10:19:19.8116 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-09-24 10:19:19.8340 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-09-24 10:19:19.8653 Info Found 50 configuration items
+2019-09-24 10:19:19.8790 Info Closing old configuration.
+2019-09-24 10:19:19.9252 Info Found 50 configuration items
+2019-09-24 11:20:24.1827 Info Message Template Auto Format enabled
+2019-09-24 11:20:24.2060 Info Loading assembly: NLog.Extensions.Logging
+2019-09-24 11:20:24.2917 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-09-24 11:20:24.3121 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-09-24 11:20:24.3419 Info Found 50 configuration items
+2019-09-24 11:20:24.3527 Info Closing old configuration.
+2019-09-24 11:20:24.3963 Info Found 50 configuration items
+2019-09-24 11:23:07.7520 Info Message Template Auto Format enabled
+2019-09-24 11:23:07.7769 Info Loading assembly: NLog.Extensions.Logging
+2019-09-24 11:23:07.8601 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-09-24 11:23:07.8811 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-09-24 11:23:07.9050 Info Found 50 configuration items
+2019-09-24 11:23:07.9165 Info Closing old configuration.
+2019-09-24 11:23:07.9594 Info Found 50 configuration items
+2019-09-24 11:26:44.2993 Info Message Template Auto Format enabled
+2019-09-24 11:26:44.3245 Info Loading assembly: NLog.Extensions.Logging
+2019-09-24 11:26:44.4150 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-09-24 11:26:44.4395 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-09-24 11:26:44.4674 Info Found 50 configuration items
+2019-09-24 11:26:44.5081 Info Closing old configuration.
+2019-09-24 11:26:44.5330 Info Found 50 configuration items
+2019-09-24 11:38:43.6503 Info Message Template Auto Format enabled
+2019-09-24 11:38:43.6736 Info Loading assembly: NLog.Extensions.Logging
+2019-09-24 11:38:43.7592 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-09-24 11:38:43.7813 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-09-24 11:38:43.8069 Info Found 50 configuration items
+2019-09-24 11:38:43.8175 Info Closing old configuration.
+2019-09-24 11:38:43.8878 Info Found 50 configuration items
+2019-09-24 11:39:44.6548 Info Message Template Auto Format enabled
+2019-09-24 11:39:44.6848 Info Loading assembly: NLog.Extensions.Logging
+2019-09-24 11:39:44.8175 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-09-24 11:39:44.8429 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-09-24 11:39:44.8673 Info Found 50 configuration items
+2019-09-24 11:39:44.8790 Info Closing old configuration.
+2019-09-24 11:39:44.9175 Info Found 50 configuration items
+2019-09-25 08:14:49.5883 Info Message Template Auto Format enabled
+2019-09-25 08:14:49.7066 Info Loading assembly: NLog.Extensions.Logging
+2019-09-25 08:14:49.8022 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-09-25 08:14:49.8234 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-09-25 08:14:49.8513 Info Found 50 configuration items
+2019-09-25 08:14:49.8770 Info Closing old configuration.
+2019-09-25 08:14:49.9107 Info Found 50 configuration items
+2019-09-25 08:15:56.5260 Info Message Template Auto Format enabled
+2019-09-25 08:15:56.5550 Info Loading assembly: NLog.Extensions.Logging
+2019-09-25 08:15:56.6313 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-09-25 08:15:56.6644 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-09-25 08:15:56.6938 Info Found 50 configuration items
+2019-09-25 08:15:56.7173 Info Closing old configuration.
+2019-09-25 08:15:56.7512 Info Found 50 configuration items
+2019-09-25 08:16:24.1386 Info Message Template Auto Format enabled
+2019-09-25 08:16:24.1596 Info Loading assembly: NLog.Extensions.Logging
+2019-09-25 08:16:24.2395 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-09-25 08:16:24.2638 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-09-25 08:16:24.2942 Info Found 50 configuration items
+2019-09-25 08:16:24.3250 Info Closing old configuration.
+2019-09-25 08:16:24.3512 Info Found 50 configuration items
+2019-09-25 08:18:03.7563 Info Message Template Auto Format enabled
+2019-09-25 08:18:03.7857 Info Loading assembly: NLog.Extensions.Logging
+2019-09-25 08:18:03.8745 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-09-25 08:18:03.9043 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-09-25 08:18:03.9393 Info Found 50 configuration items
+2019-09-25 08:18:03.9651 Info Closing old configuration.
+2019-09-25 08:18:03.9986 Info Found 50 configuration items
+2019-09-25 08:18:32.4925 Info Message Template Auto Format enabled
+2019-09-25 08:18:32.5138 Info Loading assembly: NLog.Extensions.Logging
+2019-09-25 08:18:32.5880 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-09-25 08:18:32.6074 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-09-25 08:18:32.6299 Info Found 50 configuration items
+2019-09-25 08:18:32.6401 Info Closing old configuration.
+2019-09-25 08:18:32.6783 Info Found 50 configuration items
+2019-09-25 08:20:01.9981 Info Message Template Auto Format enabled
+2019-09-25 08:20:02.0188 Info Loading assembly: NLog.Extensions.Logging
+2019-09-25 08:20:02.0829 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-09-25 08:20:02.1155 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-09-25 08:20:02.1386 Info Found 50 configuration items
+2019-09-25 08:20:02.1621 Info Closing old configuration.
+2019-09-25 08:20:02.1885 Info Found 50 configuration items
+2019-09-25 08:24:34.9415 Info Message Template Auto Format enabled
+2019-09-25 08:24:34.9636 Info Loading assembly: NLog.Extensions.Logging
+2019-09-25 08:24:35.0500 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-09-25 08:24:35.0712 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-09-25 08:24:35.0958 Info Found 50 configuration items
+2019-09-25 08:24:35.1301 Info Closing old configuration.
+2019-09-25 08:24:35.1478 Info Found 50 configuration items
+2019-09-25 08:41:05.2121 Info Message Template Auto Format enabled
+2019-09-25 08:41:05.2390 Info Loading assembly: NLog.Extensions.Logging
+2019-09-25 08:41:05.3191 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-09-25 08:41:05.3436 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-09-25 08:41:05.3686 Info Found 50 configuration items
+2019-09-25 08:41:05.3803 Info Closing old configuration.
+2019-09-25 08:41:05.4473 Info Found 50 configuration items
+2019-09-25 08:45:22.3211 Info Message Template Auto Format enabled
+2019-09-25 08:45:22.3457 Info Loading assembly: NLog.Extensions.Logging
+2019-09-25 08:45:22.4294 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-09-25 08:45:22.4561 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-09-25 08:45:22.4826 Info Found 50 configuration items
+2019-09-25 08:45:22.5048 Info Closing old configuration.
+2019-09-25 08:45:22.5383 Info Found 50 configuration items
+2019-09-25 08:50:34.8284 Info Message Template Auto Format enabled
+2019-09-25 08:50:34.8550 Info Loading assembly: NLog.Extensions.Logging
+2019-09-25 08:50:34.9443 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-09-25 08:50:34.9650 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-09-25 08:50:34.9919 Info Found 50 configuration items
+2019-09-25 08:50:35.0069 Info Closing old configuration.
+2019-09-25 08:50:35.0560 Info Found 50 configuration items
+2019-09-25 10:32:55.6888 Info Message Template Auto Format enabled
+2019-09-25 10:32:55.7154 Info Loading assembly: NLog.Extensions.Logging
+2019-09-25 10:32:55.8039 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-09-25 10:32:55.8261 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-09-25 10:32:55.8513 Info Found 50 configuration items
+2019-09-25 10:32:55.8729 Info Closing old configuration.
+2019-09-25 10:32:55.9270 Info Found 50 configuration items
+2019-09-28 10:53:59.5273 Info Message Template Auto Format enabled
+2019-09-28 10:53:59.6293 Info Loading assembly: NLog.Extensions.Logging
+2019-09-28 10:53:59.7389 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-09-28 10:53:59.7661 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-09-28 10:53:59.7938 Info Found 50 configuration items
+2019-09-28 10:53:59.8172 Info Closing old configuration.
+2019-09-28 10:53:59.8585 Info Found 50 configuration items
+2019-09-28 10:59:01.1643 Info Message Template Auto Format enabled
+2019-09-28 10:59:01.1883 Info Loading assembly: NLog.Extensions.Logging
+2019-09-28 10:59:01.2731 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-09-28 10:59:01.3022 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-09-28 10:59:01.3343 Info Found 50 configuration items
+2019-09-28 10:59:01.3681 Info Closing old configuration.
+2019-09-28 10:59:01.3922 Info Found 50 configuration items
+2019-09-28 11:13:33.5442 Info Message Template Auto Format enabled
+2019-09-28 11:13:33.5669 Info Loading assembly: NLog.Extensions.Logging
+2019-09-28 11:13:33.6375 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-09-28 11:13:33.6709 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-09-28 11:13:33.6960 Info Found 50 configuration items
+2019-09-28 11:13:33.7206 Info Closing old configuration.
+2019-09-28 11:13:33.7521 Info Found 50 configuration items
+2019-09-28 11:16:40.7380 Info Message Template Auto Format enabled
+2019-09-28 11:16:40.7667 Info Loading assembly: NLog.Extensions.Logging
+2019-09-28 11:16:40.8504 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-09-28 11:16:40.8762 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-09-28 11:16:40.9007 Info Found 50 configuration items
+2019-09-28 11:16:40.9246 Info Closing old configuration.
+2019-09-28 11:16:40.9586 Info Found 50 configuration items
+2019-09-28 11:17:25.1824 Info Message Template Auto Format enabled
+2019-09-28 11:17:25.2040 Info Loading assembly: NLog.Extensions.Logging
+2019-09-28 11:17:25.2876 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-09-28 11:17:25.3075 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-09-28 11:17:25.3310 Info Found 50 configuration items
+2019-09-28 11:17:25.3424 Info Closing old configuration.
+2019-09-28 11:17:25.3840 Info Found 50 configuration items
+2019-09-28 11:18:35.5639 Info Message Template Auto Format enabled
+2019-09-28 11:18:35.5848 Info Loading assembly: NLog.Extensions.Logging
+2019-09-28 11:18:35.6650 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-09-28 11:18:35.6931 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-09-28 11:18:35.7192 Info Found 50 configuration items
+2019-09-28 11:18:35.7319 Info Closing old configuration.
+2019-09-28 11:18:35.7759 Info Found 50 configuration items
+2019-09-28 11:29:04.7833 Info Message Template Auto Format enabled
+2019-09-28 11:29:04.8091 Info Loading assembly: NLog.Extensions.Logging
+2019-09-28 11:29:04.8905 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-09-28 11:29:04.9136 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-09-28 11:29:04.9425 Info Found 50 configuration items
+2019-09-28 11:29:04.9560 Info Closing old configuration.
+2019-09-28 11:29:05.0026 Info Found 50 configuration items
+2019-09-28 11:34:03.0610 Info Message Template Auto Format enabled
+2019-09-28 11:34:03.0761 Info Loading assembly: NLog.Extensions.Logging
+2019-09-28 11:34:03.1388 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-09-28 11:34:03.1592 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-09-28 11:34:03.1821 Info Found 50 configuration items
+2019-09-28 11:34:03.2031 Info Closing old configuration.
+2019-09-28 11:34:03.2217 Info Found 50 configuration items
+2019-09-28 11:34:29.0489 Info AppDomain Shutting down. Logger closing...
+2019-09-28 11:34:29.0489 Info Logger has been shut down.
+2019-10-08 08:22:55.8868 Info Message Template Auto Format enabled
+2019-10-08 08:22:55.9822 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 08:22:56.0699 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 08:22:56.1668 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 08:22:56.1969 Info Found 50 configuration items
+2019-10-08 08:22:56.2234 Info Closing old configuration.
+2019-10-08 08:22:56.2596 Info Found 50 configuration items
+2019-10-08 08:30:28.0832 Info Message Template Auto Format enabled
+2019-10-08 08:30:28.1071 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 08:30:28.1884 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 08:30:28.2125 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 08:30:28.2391 Info Found 50 configuration items
+2019-10-08 08:30:28.2617 Info Closing old configuration.
+2019-10-08 08:30:28.2947 Info Found 50 configuration items
+2019-10-08 08:32:44.5228 Info Message Template Auto Format enabled
+2019-10-08 08:32:44.5610 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 08:32:44.6590 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 08:32:44.6864 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 08:32:44.7341 Info Found 50 configuration items
+2019-10-08 08:32:44.7719 Info Closing old configuration.
+2019-10-08 08:32:44.8142 Info Found 50 configuration items
+2019-10-08 08:40:57.0657 Info Message Template Auto Format enabled
+2019-10-08 08:40:57.0885 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 08:40:57.1718 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 08:40:57.1940 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 08:40:57.2202 Info Found 50 configuration items
+2019-10-08 08:40:57.2326 Info Closing old configuration.
+2019-10-08 08:40:57.2759 Info Found 50 configuration items
+2019-10-08 08:41:34.5347 Info Message Template Auto Format enabled
+2019-10-08 08:41:34.5547 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 08:41:34.6418 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 08:41:34.6671 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 08:41:34.6941 Info Found 50 configuration items
+2019-10-08 08:41:34.7211 Info Closing old configuration.
+2019-10-08 08:41:34.7510 Info Found 50 configuration items
+2019-10-08 08:46:47.3544 Info Message Template Auto Format enabled
+2019-10-08 08:46:47.3759 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 08:46:47.4556 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 08:46:47.4747 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 08:46:47.4978 Info Found 50 configuration items
+2019-10-08 08:46:47.5192 Info Closing old configuration.
+2019-10-08 08:46:47.5938 Info Found 50 configuration items
+2019-10-08 08:48:54.7467 Info Message Template Auto Format enabled
+2019-10-08 08:48:54.7707 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 08:48:54.8519 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 08:48:54.8730 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 08:48:54.8952 Info Found 50 configuration items
+2019-10-08 08:48:54.9166 Info Closing old configuration.
+2019-10-08 08:48:54.9631 Info Found 50 configuration items
+2019-10-08 08:51:13.8465 Info Message Template Auto Format enabled
+2019-10-08 08:51:13.8710 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 08:51:13.9584 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 08:51:13.9785 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 08:51:14.0037 Info Found 50 configuration items
+2019-10-08 08:51:14.0333 Info Closing old configuration.
+2019-10-08 08:51:14.0621 Info Found 50 configuration items
+2019-10-08 08:52:17.0160 Info Message Template Auto Format enabled
+2019-10-08 08:52:17.0413 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 08:52:17.1165 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 08:52:17.1354 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 08:52:17.1616 Info Found 50 configuration items
+2019-10-08 08:52:17.1799 Info Closing old configuration.
+2019-10-08 08:52:17.2118 Info Found 50 configuration items
+2019-10-08 08:52:56.4709 Info Message Template Auto Format enabled
+2019-10-08 08:52:56.4953 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 08:52:56.5768 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 08:52:56.5983 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 08:52:56.6221 Info Found 50 configuration items
+2019-10-08 08:52:56.6458 Info Closing old configuration.
+2019-10-08 08:52:56.7037 Info Found 50 configuration items
+2019-10-08 08:53:23.9975 Info Message Template Auto Format enabled
+2019-10-08 08:53:24.0282 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 08:53:24.1183 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 08:53:24.1495 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 08:53:24.1833 Info Found 50 configuration items
+2019-10-08 08:53:24.2192 Info Closing old configuration.
+2019-10-08 08:53:24.2530 Info Found 50 configuration items
+2019-10-08 08:57:13.8794 Info Message Template Auto Format enabled
+2019-10-08 08:57:13.9033 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 08:57:13.9987 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 08:57:14.0209 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 08:57:14.0476 Info Found 50 configuration items
+2019-10-08 08:57:14.0598 Info Closing old configuration.
+2019-10-08 08:57:14.1201 Info Found 50 configuration items
+2019-10-08 09:05:42.1591 Info Message Template Auto Format enabled
+2019-10-08 09:05:42.1830 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 09:05:42.2772 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 09:05:42.2986 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 09:05:42.3242 Info Found 50 configuration items
+2019-10-08 09:05:42.3465 Info Closing old configuration.
+2019-10-08 09:05:42.3785 Info Found 50 configuration items
+2019-10-08 09:06:15.8661 Info Message Template Auto Format enabled
+2019-10-08 09:06:15.8883 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 09:06:15.9735 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 09:06:15.9936 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 09:06:16.0193 Info Found 50 configuration items
+2019-10-08 09:06:16.0325 Info Closing old configuration.
+2019-10-08 09:06:16.0750 Info Found 50 configuration items
+2019-10-08 09:09:12.6018 Info Message Template Auto Format enabled
+2019-10-08 09:09:12.6262 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 09:09:12.7150 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 09:09:12.7362 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 09:09:12.7599 Info Found 50 configuration items
+2019-10-08 09:09:12.7719 Info Closing old configuration.
+2019-10-08 09:09:12.8162 Info Found 50 configuration items
+2019-10-08 09:09:18.6726 Info Message Template Auto Format enabled
+2019-10-08 09:09:18.7013 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 09:09:18.7812 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 09:09:18.8035 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 09:09:18.8260 Info Found 50 configuration items
+2019-10-08 09:09:18.8469 Info Closing old configuration.
+2019-10-08 09:09:18.8818 Info Found 50 configuration items
+2019-10-08 09:11:04.2198 Info Message Template Auto Format enabled
+2019-10-08 09:11:04.2407 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 09:11:04.3098 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 09:11:04.3435 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 09:11:04.3671 Info Found 50 configuration items
+2019-10-08 09:11:04.3873 Info Closing old configuration.
+2019-10-08 09:11:04.4168 Info Found 50 configuration items
+2019-10-08 09:49:21.6019 Info Message Template Auto Format enabled
+2019-10-08 09:49:21.6258 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 09:49:21.7110 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 09:49:21.7309 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 09:49:21.7562 Info Found 50 configuration items
+2019-10-08 09:49:21.7770 Info Closing old configuration.
+2019-10-08 09:49:21.8134 Info Found 50 configuration items
+2019-10-08 10:27:11.5698 Info Message Template Auto Format enabled
+2019-10-08 10:27:11.5924 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 10:27:11.6778 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 10:27:11.6983 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 10:27:11.7222 Info Found 50 configuration items
+2019-10-08 10:27:11.7333 Info Closing old configuration.
+2019-10-08 10:27:11.7952 Info Found 50 configuration items
+2019-10-08 10:27:53.0708 Info Message Template Auto Format enabled
+2019-10-08 10:27:53.0926 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 10:27:53.1714 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 10:27:53.1934 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 10:27:53.2267 Info Found 50 configuration items
+2019-10-08 10:27:53.2592 Info Closing old configuration.
+2019-10-08 10:27:53.2805 Info Found 50 configuration items
+2019-10-08 10:35:03.7199 Info Message Template Auto Format enabled
+2019-10-08 10:35:03.7455 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 10:35:03.8112 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 10:35:03.8487 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 10:35:03.8758 Info Found 50 configuration items
+2019-10-08 10:35:03.9249 Info Closing old configuration.
+2019-10-08 10:35:03.9563 Info Found 50 configuration items
+2019-10-08 10:42:50.2377 Info Message Template Auto Format enabled
+2019-10-08 10:42:50.2604 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 10:42:50.3279 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 10:42:50.3626 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 10:42:50.3857 Info Found 50 configuration items
+2019-10-08 10:42:50.4082 Info Closing old configuration.
+2019-10-08 10:42:50.4402 Info Found 50 configuration items
+2019-10-08 10:46:25.3044 Info Message Template Auto Format enabled
+2019-10-08 10:46:25.3712 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 10:46:25.5043 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 10:46:25.5382 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 10:46:25.5817 Info Found 50 configuration items
+2019-10-08 10:46:25.6143 Info Closing old configuration.
+2019-10-08 10:46:25.6551 Info Found 50 configuration items
+2019-10-08 10:51:02.5247 Info Message Template Auto Format enabled
+2019-10-08 10:51:02.5528 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 10:51:02.6448 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 10:51:02.6675 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 10:51:02.6936 Info Found 50 configuration items
+2019-10-08 10:51:02.7254 Info Closing old configuration.
+2019-10-08 10:51:02.7568 Info Found 50 configuration items
+2019-10-08 10:58:58.5948 Info Message Template Auto Format enabled
+2019-10-08 10:58:58.6165 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 10:58:58.6846 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 10:58:58.7212 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 10:58:58.7479 Info Found 50 configuration items
+2019-10-08 10:58:58.7624 Info Closing old configuration.
+2019-10-08 10:58:58.8061 Info Found 50 configuration items
+2019-10-08 11:01:31.4705 Info Message Template Auto Format enabled
+2019-10-08 11:01:31.4947 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 11:01:31.5603 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 11:01:31.5931 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 11:01:31.6168 Info Found 50 configuration items
+2019-10-08 11:01:31.6430 Info Closing old configuration.
+2019-10-08 11:01:31.6673 Info Found 50 configuration items
+2019-10-08 11:02:05.8070 Info Message Template Auto Format enabled
+2019-10-08 11:02:05.8350 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 11:02:05.9180 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 11:02:05.9385 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 11:02:05.9670 Info Found 50 configuration items
+2019-10-08 11:02:05.9870 Info Closing old configuration.
+2019-10-08 11:02:06.0201 Info Found 50 configuration items
+2019-10-08 11:02:20.0719 Info Message Template Auto Format enabled
+2019-10-08 11:02:20.0923 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 11:02:20.1728 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 11:02:20.1954 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 11:02:20.2224 Info Found 50 configuration items
+2019-10-08 11:02:20.2345 Info Closing old configuration.
+2019-10-08 11:02:20.2729 Info Found 50 configuration items
+2019-10-08 11:02:48.8050 Info Message Template Auto Format enabled
+2019-10-08 11:02:48.8322 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 11:02:48.9078 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 11:02:48.9284 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 11:02:48.9526 Info Found 50 configuration items
+2019-10-08 11:02:48.9714 Info Closing old configuration.
+2019-10-08 11:02:49.0035 Info Found 50 configuration items
+2019-10-08 11:30:28.0095 Info Message Template Auto Format enabled
+2019-10-08 11:30:28.0306 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 11:30:28.1080 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 11:30:28.1295 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 11:30:28.1524 Info Found 50 configuration items
+2019-10-08 11:30:28.1751 Info Closing old configuration.
+2019-10-08 11:30:28.2272 Info Found 50 configuration items
+2019-10-08 11:31:25.2931 Info Message Template Auto Format enabled
+2019-10-08 11:31:25.3192 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 11:31:25.4010 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 11:31:25.4241 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 11:31:25.4513 Info Found 50 configuration items
+2019-10-08 11:31:25.4725 Info Closing old configuration.
+2019-10-08 11:31:25.5238 Info Found 50 configuration items
+2019-10-08 11:35:26.2689 Info Message Template Auto Format enabled
+2019-10-08 11:35:26.2938 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 11:35:26.3751 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 11:35:26.4005 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 11:35:26.4292 Info Found 50 configuration items
+2019-10-08 11:35:26.4657 Info Closing old configuration.
+2019-10-08 11:35:26.4984 Info Found 50 configuration items
+2019-10-08 11:35:40.8220 Info Message Template Auto Format enabled
+2019-10-08 11:35:40.8428 Info Loading assembly: NLog.Extensions.Logging
+2019-10-08 11:35:40.9189 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-08 11:35:40.9437 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-08 11:35:40.9710 Info Found 50 configuration items
+2019-10-08 11:35:40.9844 Info Closing old configuration.
+2019-10-08 11:35:41.0264 Info Found 50 configuration items
+2019-10-09 08:00:51.8145 Info Message Template Auto Format enabled
+2019-10-09 08:00:51.9127 Info Loading assembly: NLog.Extensions.Logging
+2019-10-09 08:00:52.0200 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-09 08:00:52.0509 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-09 08:00:52.0764 Info Found 50 configuration items
+2019-10-09 08:00:52.0875 Info Closing old configuration.
+2019-10-09 08:00:52.1575 Info Found 50 configuration items
+2019-10-09 08:01:51.9714 Info Message Template Auto Format enabled
+2019-10-09 08:01:51.9916 Info Loading assembly: NLog.Extensions.Logging
+2019-10-09 08:01:52.0751 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-09 08:01:52.0971 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-09 08:01:52.1251 Info Found 50 configuration items
+2019-10-09 08:01:52.1535 Info Closing old configuration.
+2019-10-09 08:01:52.1836 Info Found 50 configuration items
+2019-10-09 08:05:51.5976 Info Message Template Auto Format enabled
+2019-10-09 08:05:51.6182 Info Loading assembly: NLog.Extensions.Logging
+2019-10-09 08:05:51.6995 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-09 08:05:51.7196 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-09 08:05:51.7473 Info Found 50 configuration items
+2019-10-09 08:05:51.7579 Info Closing old configuration.
+2019-10-09 08:05:51.7977 Info Found 50 configuration items
+2019-10-09 08:07:34.5666 Info Message Template Auto Format enabled
+2019-10-09 08:07:34.5899 Info Loading assembly: NLog.Extensions.Logging
+2019-10-09 08:07:34.6758 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-09 08:07:34.7007 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-09 08:07:34.7236 Info Found 50 configuration items
+2019-10-09 08:07:34.7645 Info Closing old configuration.
+2019-10-09 08:07:34.7964 Info Found 50 configuration items
+2019-10-09 08:09:32.6113 Info Message Template Auto Format enabled
+2019-10-09 08:09:32.6347 Info Loading assembly: NLog.Extensions.Logging
+2019-10-09 08:09:32.7419 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-09 08:09:32.7727 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-09 08:09:32.8011 Info Found 50 configuration items
+2019-10-09 08:09:32.8279 Info Closing old configuration.
+2019-10-09 08:09:32.8763 Info Found 50 configuration items
+2019-10-14 08:18:27.4607 Info Message Template Auto Format enabled
+2019-10-14 08:18:27.5120 Info Loading assembly: NLog.Extensions.Logging
+2019-10-14 08:18:27.6159 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-14 08:18:27.6395 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-14 08:18:27.6671 Info Found 50 configuration items
+2019-10-14 08:18:27.6943 Info Closing old configuration.
+2019-10-14 08:18:27.7281 Info Found 50 configuration items
+2019-10-14 08:19:08.1713 Info Message Template Auto Format enabled
+2019-10-14 08:19:08.1921 Info Loading assembly: NLog.Extensions.Logging
+2019-10-14 08:19:08.2605 Info Adding target AsyncTargetWrapper(Name=all-file)
+2019-10-14 08:19:08.2935 Info Adding target AsyncTargetWrapper(Name=own-console)
+2019-10-14 08:19:08.3170 Info Found 50 configuration items
+2019-10-14 08:19:08.3420 Info Closing old configuration.
+2019-10-14 08:19:08.3751 Info Found 50 configuration items

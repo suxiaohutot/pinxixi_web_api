@@ -1,0 +1,14 @@
+E:\WEBAPI\bin\Debug\netcoreapp2.2\WEBAPI.deps.json
+E:\WEBAPI\bin\Debug\netcoreapp2.2\WEBAPI.runtimeconfig.json
+E:\WEBAPI\bin\Debug\netcoreapp2.2\WEBAPI.runtimeconfig.dev.json
+e:\WEBAPI\bin\Debug\netcoreapp2.2\WEBAPI.dll
+e:\WEBAPI\bin\Debug\netcoreapp2.2\WEBAPI.pdb
+e:\WEBAPI\obj\Debug\netcoreapp2.2\WEBAPI.csprojAssemblyReference.cache
+e:\WEBAPI\obj\Debug\netcoreapp2.2\WEBAPI.csproj.CoreCompileInputs.cache
+e:\WEBAPI\obj\Debug\netcoreapp2.2\WEBAPI.RazorAssemblyInfo.cache
+e:\WEBAPI\obj\Debug\netcoreapp2.2\WEBAPI.RazorAssemblyInfo.cs
+e:\WEBAPI\obj\Debug\netcoreapp2.2\WEBAPI.AssemblyInfoInputs.cache
+e:\WEBAPI\obj\Debug\netcoreapp2.2\WEBAPI.AssemblyInfo.cs
+e:\WEBAPI\obj\Debug\netcoreapp2.2\WEBAPI.RazorTargetAssemblyInfo.cache
+e:\WEBAPI\obj\Debug\netcoreapp2.2\WEBAPI.dll
+e:\WEBAPI\obj\Debug\netcoreapp2.2\WEBAPI.pdb

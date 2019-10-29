@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>test</title>
+    <script src="js/vue.js"></script>
+    <style>
+        .colorblack{
+            background: #444;
+            color: #eee;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="div1">
+        {{meg}}<br>
+        {{meg1}}<br>
+        v-html={{meg1}}<br>
+        <p v-html="meg1"></p>
+        --------------------------------------------------
+    </div>
+    <div id="div2" v-bind:title="id">
+        <input type="text" v-model:value="message"><br>
+    </div>
+    --------------------------------------------------
+    <div id="div3">
+        <label for="chengecolor">修改颜色</label>
+        <input type="checkbox" id="chengecolor" v-model="use" >
+        <div v-bind:class="{'colorblack':use}">class指令</div>
+    </div>
+    --------------------------------------------------
+    <div id="div4">
+        {{message}}
+        <button v-on:click="reverseMessage">danji</button>
+    </div>
+    --------------------------------------------------
+    <div id="div5">
+        <p v-if="seen">现在你看到我了</p>
+        <template v-if="ok">
+            <p>学的是技术</p>
+        </template>
+        <div v-if="Math.random() > 0.5">
+            Sorry
+        </div>
+        <div v-else>
+            not Sorry
+        </div>
+    </div>
+    --------------------------------------------------
+    <div id="div6">
+        <div v-if="type === 'A'">
+            A
+        </div>
+        <div v-else-if="type === 'B'">
+            B
+        </div>
+        <div v-else-if="type === 'C'">
+            C
+        </div>
+        <div v-else>
+            Not A/B/C
+        </div>
+    </div>
+    --------------------------------------------------
+    <div id="div7">
+        <ol>
+            <li v-for="item in Arrays">
+                {{item}}
+            </li>
+            --------------------------------------------------
+            <li v-for="(value,key) in object">
+                {{key}} : {{value}}
+            </li>
+            --------------------------------------------------
+            <li v-for="(value,key,Arr2) in object">
+                {{Arr2}}.{{key}} : {{value}}
+            </li>
+        </ol>
+    </div>
+    --------------------------------------------------
+    <div id="div8">
+        <input type="text" v-model:value="inputValue">
+        <button v-on:clicl="btnblick">提交</button>
+        <ul>
+            <li v-for="item in Array1">{{item}}</li>
+        </ul>
+    </div>
+    --------------------------------------------------
+
+</body>
+
+<script>
+    var ass1 = new Vue({
+        el:"#div1",
+        data:{
+            meg:"hello world",
+            meg1:"你好"
+        }
+    });
+    var ass2 = new Vue({
+        el:"#div2",
+        data:{
+            message:'菜鸟教程',
+            id:'这是div2的内容：'
+        }
+    })
+    var ass3 = new Vue({
+        el:"#div3",
+        data:{
+            use:false,
+            xiaohu:'xiaohu is six',
+        }
+    })
+    var ass3 = new Vue({
+        el:"#div4",
+        data:{
+            message:'abcde',
+        },
+        methods:{
+            reverseMessage:function(){
+                this.message = this.message.split('').reverse().join('')
+            }
+        }
+    })
+    var ass5 = new Vue({
+        el:"#div5",
+        data:{
+            ok:true,
+            seen:true,
+        }
+    })
+    var ass6 = new Vue({
+        el:"#div6",
+        data:{
+            type:'B'
+        }
+    })
+    var ass6 = new Vue({
+        el:'#div7',
+        data:{
+            Arrays:['id','name','sex','password'],
+            Arr1:[1,2,3,4],
+            Arr2:[
+                {id:'001',name:'xiaohu'},
+                {id:'002',name:'xiaohu'},
+                {id:'003',name:'xiaohu'},
+            ],
+            object:{
+                name:'xiaohu',
+                sex:'女',
+                age:'20',
+            }
+        }
+    })
+    var vm = new Vue({
+        el:'#div8',
+        data:{
+            Array1:['1d','2dd','3cc','4gg'],
+            inputValue:''
+        },
+        methods:{
+            btnblick:function(){
+                this.Array1.push(this.inputValue);
+                this,inputValue='';
+            }
+        }
+    })
+    var vm = new Vue({
+        el:'#div9',
+        data:{
+            message:'Runoob!'
+        }
+    })
+    
+</script>
+</html>
